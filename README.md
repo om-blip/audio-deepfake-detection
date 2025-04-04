@@ -1,7 +1,3 @@
-Here’s your content reformatted in **GitHub README.md** style, including the final sections for the **feature importance plot** and **evaluation plot** as PNG images (place them in your repo and link accordingly):
-
----
-
 # 🕵️ Audio Deepfake Detection - openSMILE Based System
 
 ## 🎯 Assessment Overview
@@ -177,7 +173,7 @@ pip install opensmile scikit-learn numpy pandas matplotlib seaborn librosa xgboo
 
 ## 🖼️ Feature Importance Plot
 
-<img src="Feature Importance.png" alt="Feature Importance Plot" width="600"/>
+<img src="plots/Feature Importance.png" alt="Feature Importance Plot" width="600"/>
 
 > Top Features:
 > - **jitterLocal_sma3nz_amean**
@@ -189,7 +185,7 @@ pip install opensmile scikit-learn numpy pandas matplotlib seaborn librosa xgboo
 
 ## 📈 Evaluation Plot
 
-<img src="Evaluation.png" alt="Evaluation Metrics Plot" width="600"/>
+<img src="plots/Evaluation.png" alt="Evaluation Metrics Plot" width="600"/>
 
 ---
 
@@ -201,5 +197,3 @@ pip install opensmile scikit-learn numpy pandas matplotlib seaborn librosa xgboo
 4. [ASVspoof 2019 Dataset](https://datashare.ed.ac.uk/handle/10283/3336)
 
 ---
-
-Let me know if you want a `.md` file version or want to auto-generate the plots!

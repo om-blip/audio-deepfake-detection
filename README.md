@@ -117,7 +117,7 @@ pip install opensmile scikit-learn numpy pandas matplotlib seaborn librosa xgboo
 - openSMILE string formatting errors
 - Attack-specific evaluation logic needed rework
 - Reduced EER from **33% → 12.02%**
-- Low computational resources so can't work on full dataser
+- Low computational resources so can't work on full dataset
 
 ---
 
@@ -173,7 +173,7 @@ pip install opensmile scikit-learn numpy pandas matplotlib seaborn librosa xgboo
 
 ## 🖼️ Feature Importance Plot
 
-<img src="plots/Feature Importance.png" alt="Feature Importance Plot" width="600"/>
+<img src="plot/Feature Importance.png" alt="Feature Importance Plot" width="600"/>
 
 > Top Features:
 > - **jitterLocal_sma3nz_amean**
@@ -185,7 +185,7 @@ pip install opensmile scikit-learn numpy pandas matplotlib seaborn librosa xgboo
 
 ## 📈 Evaluation Plot
 
-<img src="plots/Evaluation.png" alt="Evaluation Metrics Plot" width="600"/>
+<img src="plot/Evaluation.png" alt="Evaluation Metrics Plot" width="600"/>
 
 ---
 
